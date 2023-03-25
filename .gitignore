@@ -1,0 +1,13 @@
+.rocks
+lua_modules
+lua_types
+*.zip
+
+/site/*
+/nginx/app
+/nginx/conf
+/nginx/html
+/nginx/logs
+/nginx/temp
+/nginx/testing
+/nginx/*.lua
